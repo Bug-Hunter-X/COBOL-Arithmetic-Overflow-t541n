@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in COBOL programs: arithmetic overflow.  The provided COBOL code attempts an operation that exceeds the capacity of the defined numeric variables. The solution shows how to handle this situation to prevent unexpected behavior or program crashes.
